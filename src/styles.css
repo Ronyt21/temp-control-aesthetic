@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(27, 26, 26);
+}
+.App {
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.r-text {
+  font-size: 5rem;
+}
+.r-card-body {
+  background-color: rgb(27, 26, 26);
+
+  color: white;
+}
+.r-warm-btn {
+  margin: 0 20px;
+  background-color: orange;
+  border: none;
+}
+.r-cold-btn {
+  margin: 0 20px;
+  background-color: rgb(3, 179, 249);
+}
